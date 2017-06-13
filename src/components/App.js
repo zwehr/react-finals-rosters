@@ -10,6 +10,7 @@ class App extends Component {
         <h1>2017 NBA Finals Rosters</h1>
         <h2>Preview matchups and see stats.</h2>
         <PlayerCard />
+        <PlayerCard />
       </div>
     );
   }
