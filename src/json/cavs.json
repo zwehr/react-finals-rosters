@@ -58,7 +58,7 @@
     "img": "./images/cavs/james-jones.png",
     "number": 1,
     "position": "Guard"
-  }
+  },
   {
     "name": "Dahntay Jones",
     "img": "./images/cavs/dahntay-jones.png",
@@ -71,7 +71,8 @@
     "number": 8,
     "position": "Foward"
   },
-  {"name": "Derrick Williams",
+  {
+    "name": "Derrick Williams",
     "img": "./images/cavs/derrick-williams.png",
     "number": 3,
     "position": "Forward"

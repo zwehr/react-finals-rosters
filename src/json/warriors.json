@@ -58,7 +58,7 @@
     "img": "./images/warriors/matt-barnes.png",
     "number": 22,
     "position": "Forward"
-  }
+  },
   {
     "name": "Ian Clark",
     "img": "./images/warriors/ian-clark.png",
@@ -71,8 +71,9 @@
     "number": 0,
     "position": "Guard"
   },
-  {"name": "James Michael McAdoo",
-      "img": "./images/warriors/james-michael-mcadoo.png",
+  {
+    "name": "James Michael McAdoo",
+    "img": "./images/warriors/james-michael-mcadoo.png",
     "number": 20,
     "position": "Forward"
   },
