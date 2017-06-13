@@ -9,8 +9,19 @@ h2 {
   text-align: center;
 }
 
+i {
+  margin-right: 40px;
+  margin-left: 40px;
+  cursor: pointer;
+}
+
+img {
+  border: 2px solid black;
+  border-radius: 5%;
+}
+
 .cardWrapper {
-  width: 800px;
+  width: 600px;
   height: 500px;
   margin: 0 auto;
   border: 1px solid black;
@@ -18,8 +29,16 @@ h2 {
 
 .playerCard {
   float: left;
-  width: 49%;
-  height: 99%;
+  width: 45%;
+  height: 98%;
   margin: 2px;
+  padding: 10px;
   border: 1px solid black;
+}
+
+.arrows {
+  width: 215px;
+  margin: 0 auto;
+  padding-top: 10px;
+  font-size: 2em;
 }

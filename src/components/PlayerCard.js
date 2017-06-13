@@ -18,6 +18,10 @@ class PlayerCard extends Component {
     return (
       <div className="playerCard">
         <PlayerPhoto photo={playerPhoto} name={playerName} />
+        <div className="arrows">
+          <i className="fa fa-arrow-left" aria-hidden="true"></i>
+          <i className="fa fa-arrow-right" aria-hidden="true"></i>
+        </div>
         <PlayerInfo name={playerName} number={playerNumber} position={playerPosition}/>
       </div>
     );
