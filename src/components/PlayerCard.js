@@ -11,11 +11,14 @@ class PlayerCard extends Component {
   }
 
   render() {
+    let playerName = this.props.roster[this.state.playerIndex].name;
+    let playerPhoto = this.props.roster[this.state.playerIndex].img;
+    let playerNumber = this.props.roster[this.state.playerIndex].number;
+    let playerPosition = this.props.roster[this.state.playerIndex].position;
     return (
       <div className="playerCard">
-        from PlayerCard component, state is {this.state.playerIndex} rendering:
-        <PlayerPhoto />
-        <PlayerInfo />
+        <PlayerPhoto photo={playerPhoto} name={playerName} />
+        <PlayerInfo name={playerName} number={playerNumber} position={playerPosition}/>
       </div>
     );
   }

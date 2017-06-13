@@ -4,7 +4,8 @@ class PlayerInfo extends Component {
   render() {
     return (
       <div className="playerInfo">
-        from PlayerInfo component
+        <h3>{this.props.name}</h3>
+        <p>#{this.props.number}, {this.props.position}</p>
       </div>
     )
   }
