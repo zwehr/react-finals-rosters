@@ -4,10 +4,22 @@ body {
   font-family: sans-serif;
 }
 
-.playerCard {
-  width: 400px;
+h1,
+h2 {
+  text-align: center;
+}
+
+.cardWrapper {
+  width: 800px;
   height: 500px;
+  margin: 0 auto;
   border: 1px solid black;
+}
+
+.playerCard {
   float: left;
-  margin: 10px;
+  width: 49%;
+  height: 99%;
+  margin: 2px;
+  border: 1px solid black;
 }

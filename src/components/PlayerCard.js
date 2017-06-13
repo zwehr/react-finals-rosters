@@ -7,7 +7,7 @@ class PlayerCard extends Component {
     super();
     this.state = {
       playerIndex: 0
-    }
+    };
   }
 
   render() {
@@ -17,7 +17,7 @@ class PlayerCard extends Component {
         <PlayerPhoto />
         <PlayerInfo />
       </div>
-    )
+    );
   }
 }
 
