@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Stephen Curry",
+    "img": "./images/warriors/steph-curry.png",
+    "number": 30,
+    "position": "Guard"
+  },
+  {
+    "name": "Klay Thompson",
+    "img": "./images/warriors/klay-thompson.png",
+    "number": 11,
+    "position": "Guard"
+  },
+  {
+    "name": "Kevin Durant",
+    "img": "./images/warriors/kevin-durant.png",
+    "number": 35,
+    "position": "Forward"
+  },
+  {
+    "name": "Draymond Green",
+    "img": "./images/warriors/draymond-green.png",
+    "number": 23,
+    "position": "Forward"
+  },
+  {
+    "name": "Zaza Pachulia",
+    "img": "./images/warriors/zaza-pachulia.png",
+    "number": 27,
+    "position": "Center"
+  },
+  {
+    "name": "Shaun Livingston",
+    "img": "./images/warriors/shaun-livingston.png",
+    "number": 34,
+    "position": "Guard"
+  },
+  {
+    "name": "Andre Iguodala",
+    "img": "./images/warriors/andre-iguodala.png",
+    "number": 9,
+    "position": "Forward"
+  },
+  {
+    "name": "David West",
+    "img": "./images/warriors/david-west.png",
+    "number": 3,
+    "position": "Forward"
+  },
+  {
+    "name": "Javale McGee",
+    "img": "./images/warriors/javale-mcgee.png",
+    "number": 1,
+    "position": "Center"
+  },
+  {
+    "name": "Matt Barnes",
+    "img": "./images/warriors/matt-barnes.png",
+    "number": 22,
+    "position": "Forward"
+  }
+  {
+    "name": "Ian Clark",
+    "img": "./images/warriors/ian-clark.png",
+    "number": 21,
+    "position": "Guard"
+  },
+  {
+    "name": "Patrick McCaw",
+    "img": "./images/warriors/patrick-mccaw.png",
+    "number": 0,
+    "position": "Guard"
+  },
+  {"name": "James Michael McAdoo",
+      "img": "./images/warriors/james-michael-mcadoo.png",
+    "number": 20,
+    "position": "Forward"
+  },
+  {
+    "name": "Kevon Looney",
+    "img": "./images/warriors/kevon-looney.png",
+    "number": 5,
+    "position": "Forward"
+  },
+  {
+    "name": "Damian Jones",
+    "img": "./images/warriors/damian-jones.png",
+    "number": 15,
+    "position": "Center"
+  }
+]

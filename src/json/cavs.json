@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Kyrie Irving",
+    "img": "./images/cavs/kyrie-irving.png",
+    "number": 2,
+    "position": "Guard"
+  },
+  {
+    "name": "JR Smith",
+    "img": "./images/cavs/jr-smith.png",
+    "number": 5,
+    "position": "Guard"
+  },
+  {
+    "name": "LeBron James",
+    "img": "./images/cavs/lebron-james.png",
+    "number": 23,
+    "position": "Forward"
+  },
+  {
+    "name": "Kevin Love",
+    "img": "./images/cavs/kevin-love.png",
+    "number": 0,
+    "position": "Forward"
+  },
+  {
+    "name": "Tristan Thompson",
+    "img": "./images/cavs/tristan-thompson.png",
+    "number": 13,
+    "position": "Center"
+  },
+  {
+    "name": "Iman Shumpert",
+    "img": "./images/cavs/iman-shumpert.png",
+    "number": 4,
+    "position": "Guard"
+  },
+  {
+    "name": "Kyle Korver",
+    "img": "./images/cavs/kyle-korver.png",
+    "number": 26,
+    "position": "Guard"
+  },
+  {
+    "name": "Richard Jefferson",
+    "img": "./images/cavs/richard-jefferson.png",
+    "number": 24,
+    "position": "Forward"
+  },
+  {
+    "name": "Deron Williams",
+    "img": "./images/cavs/deron-williams.png",
+    "number": 31,
+    "position": "Guard"
+  },
+  {
+    "name": "James Jones",
+    "img": "./images/cavs/james-jones.png",
+    "number": 1,
+    "position": "Guard"
+  }
+  {
+    "name": "Dahntay Jones",
+    "img": "./images/cavs/dahntay-jones.png",
+    "number": 30,
+    "position": "Guard"
+  },
+  {
+    "name": "Channing Frye",
+    "img": "./images/cavs/channing-frye.png",
+    "number": 8,
+    "position": "Foward"
+  },
+  {"name": "Derrick Williams",
+    "img": "./images/cavs/derrick-williams.png",
+    "number": 3,
+    "position": "Forward"
+  },
+  {
+    "name": "Edy Tavares",
+    "img": "./images/cavs/edy-tavares.png",
+    "number": 40,
+    "position": "Center"
+  },
+  {
+    "name": "Kay Felder",
+    "img": "./images/cavs/kay-felder.png",
+    "number": 20,
+    "position": "Guard"
+  }
+]
