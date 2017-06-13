@@ -5,7 +5,7 @@ class PlayerInfo extends Component {
     return (
       <div className="playerInfo">
         <h3>{this.props.name}</h3>
-        <p>#{this.props.number}, {this.props.position}</p>
+        <p className="numberAndName">#{this.props.number}, {this.props.position}</p>
       </div>
     )
   }

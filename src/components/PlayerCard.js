@@ -46,6 +46,7 @@ class PlayerCard extends Component {
 
     return (
       <div className="playerCard">
+        <h2 className="teamName">{this.props.team}</h2>
         <PlayerPhoto photo={playerPhoto} name={playerName} />
         <div className="arrows">
           <i onClick={this.handleClickBack.bind(this)} className="fa fa-arrow-left" aria-hidden="true"></i>
