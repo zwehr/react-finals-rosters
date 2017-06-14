@@ -50,7 +50,7 @@ class PlayerCard extends Component {
     let apg = player.stats.assists;
 
     return (
-      <div className="playerCard">
+      <div className={"playerCard " + this.props.class}>
         <h2 className="teamName">{this.props.team}</h2>
         <PlayerPhoto photo={playerPhoto} name={playerName} />
         <div className="arrows">

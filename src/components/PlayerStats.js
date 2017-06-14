@@ -5,11 +5,11 @@ class PlayerStats extends Component {
     return (
       <div className="stats">
         <h4>Stats*</h4>
-        <p className="singleStat">Minutes: {this.props.minutes}</p>
-        <p className="singleStat">Points: {this.props.points}</p>
-        <p className="singleStat">Rebounds: {this.props.rebounds}</p>
-        <p className="singleStat">Assists: {this.props.assists}</p>
-        <p className="statsNote">*per game for the 2017-17 regular season</p>
+        <p className="statLine">Minutes: <strong>{this.props.minutes}</strong> |
+          Points: <strong>{this.props.points}</strong></p>
+        <p className="statLine">Rebounds: <strong>{this.props.rebounds}</strong> |
+          Assists: <strong>{this.props.assists}</strong></p>
+        <p className="statsNote">*per game for the 2016-17 regular season</p>
       </div>
     );
   }

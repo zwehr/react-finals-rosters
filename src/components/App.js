@@ -11,10 +11,11 @@ class App extends Component {
 
         <CardWrapper />
 
-        <p className="appInfo">This app was built with React and emphasizes
+        <div className="clear"></div>
+        <div className="appInfo"><p>This app was built with React and emphasizes
         reusability. Each of the two player "cards" above are the same component,
         but they are given different props (JSON data for each team). Clicking
-        on either arrow simply increments or decrements an index value held in state.</p>
+        on either arrow simply increments or decrements an index value held in state.</p></div>
       </div>
     );
   }

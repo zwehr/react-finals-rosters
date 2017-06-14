@@ -7,8 +7,8 @@ class CardWrapper extends Component {
   render() {
     return (
       <div className="cardWrapper">
-        <PlayerCard team="Cleveland Cavaliers" roster={cavs}/>
-        <PlayerCard team="Golden State Warriors" roster={warriors}/>
+        <PlayerCard roster={cavs} team="Cleveland Cavaliers" class="cavsCard" />
+        <PlayerCard roster={warriors} team="Golden State Warriors" class="warriorsCard" />
       </div>
     );
   }
