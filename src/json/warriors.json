@@ -3,90 +3,180 @@
     "name": "Stephen Curry",
     "img": "./images/warriors/steph-curry.png",
     "number": 30,
-    "position": "Guard"
+    "position": "Guard",
+    "stats": {
+      "minutes": 33.4,
+      "points": 25.3,
+      "rebounds": 4.5,
+      "assists": 6.6
+    }
   },
   {
     "name": "Klay Thompson",
     "img": "./images/warriors/klay-thompson.png",
     "number": 11,
-    "position": "Guard"
+    "position": "Guard",
+    "stats": {
+      "minutes": 34.0,
+      "points": 22.3,
+      "rebounds": 3.7,
+      "assists": 2.1
+    }
   },
   {
     "name": "Kevin Durant",
     "img": "./images/warriors/kevin-durant.png",
     "number": 35,
-    "position": "Forward"
+    "position": "Forward",
+    "stats": {
+      "minutes": 33.4,
+      "points": 25.1,
+      "rebounds": 8.3,
+      "assists": 4.8
+    }
   },
   {
     "name": "Draymond Green",
     "img": "./images/warriors/draymond-green.png",
     "number": 23,
-    "position": "Forward"
+    "position": "Forward",
+    "stats": {
+      "minutes": 32.5,
+      "points": 10.2,
+      "rebounds": 7.9,
+      "assists": 7.0
+    }
   },
   {
     "name": "Zaza Pachulia",
     "img": "./images/warriors/zaza-pachulia.png",
     "number": 27,
-    "position": "Center"
+    "position": "Center",
+    "stats": {
+      "minutes": 18.1,
+      "points": 6.1,
+      "rebounds": 5.9,
+      "assists": 1.9
+    }
   },
   {
     "name": "Shaun Livingston",
     "img": "./images/warriors/shaun-livingston.png",
     "number": 34,
-    "position": "Guard"
+    "position": "Guard",
+    "stats": {
+      "minutes": 17.7,
+      "points": 5.1,
+      "rebounds": 2.0,
+      "assists": 1.8
+    }
   },
   {
     "name": "Andre Iguodala",
     "img": "./images/warriors/andre-iguodala.png",
     "number": 9,
-    "position": "Forward"
+    "position": "Forward",
+    "stats": {
+      "minutes": 26.3,
+      "points": 7.6,
+      "rebounds": 4.0,
+      "assists": 3.4
+    }
   },
   {
     "name": "David West",
     "img": "./images/warriors/david-west.png",
     "number": 3,
-    "position": "Forward"
+    "position": "Forward",
+    "stats": {
+      "minutes": 12.6,
+      "points": 4.6,
+      "rebounds": 3.0,
+      "assists": 2.2
+    }
   },
   {
     "name": "Javale McGee",
     "img": "./images/warriors/javale-mcgee.png",
     "number": 1,
-    "position": "Center"
+    "position": "Center",
+    "stats": {
+      "minutes": 9.6,
+      "points": 6.1,
+      "rebounds": 3.2,
+      "assists": 0.2
+    }
   },
   {
     "name": "Matt Barnes",
     "img": "./images/warriors/matt-barnes.png",
     "number": 22,
-    "position": "Forward"
+    "position": "Forward",
+    "stats": {
+      "minutes": 24.0,
+      "points": 7.1,
+      "rebounds": 5.2,
+      "assists": 2.6
+    }
   },
   {
     "name": "Ian Clark",
     "img": "./images/warriors/ian-clark.png",
     "number": 21,
-    "position": "Guard"
+    "position": "Guard",
+    "stats": {
+      "minutes": 14.8,
+      "points": 6.8,
+      "rebounds": 1.6,
+      "assists": 1.2
+    }
   },
   {
     "name": "Patrick McCaw",
     "img": "./images/warriors/patrick-mccaw.png",
     "number": 0,
-    "position": "Guard"
+    "position": "Guard",
+    "stats": {
+      "minutes": 15.1,
+      "points": 4.0,
+      "rebounds": 1.4,
+      "assists": 1.1
+    }
   },
   {
     "name": "James Michael McAdoo",
     "img": "./images/warriors/james-michael-mcadoo.png",
     "number": 20,
-    "position": "Forward"
+    "position": "Forward",
+    "stats": {
+      "minutes": 8.8,
+      "points": 2.8,
+      "rebounds": 1.7,
+      "assists": 0.3
+    }
   },
   {
     "name": "Kevon Looney",
     "img": "./images/warriors/kevon-looney.png",
     "number": 5,
-    "position": "Forward"
+    "position": "Forward",
+    "stats": {
+      "minutes": 8.4,
+      "points": 2.5,
+      "rebounds": 2.3,
+      "assists": 0.5
+    }
   },
   {
     "name": "Damian Jones",
     "img": "./images/warriors/damian-jones.png",
     "number": 15,
-    "position": "Center"
+    "position": "Center",
+    "stats": {
+      "minutes": 8.5,
+      "points": 1.9,
+      "rebounds": 2.3,
+      "assists": 0.0
+    }
   }
 ]
