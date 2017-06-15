@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import CardWrapper from './CardWrapper';
+import Footer from './Footer';
 
 class App extends Component {
   render() {
@@ -12,10 +13,11 @@ class App extends Component {
         <CardWrapper />
 
         <div className="clear"></div>
-        <div className="appInfo"><p>This app was built with React and emphasizes
+        <div className="appInfo"><p>This simple app was built with React and emphasizes
         reusability. Each of the two player "cards" above are the same component,
         but they are given different props (JSON data for each team). Clicking
         on either arrow simply increments or decrements an index value held in state.</p></div>
+        <Footer />
       </div>
     );
   }
